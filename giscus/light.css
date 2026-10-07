@@ -108,3 +108,7 @@ main .gsc-loading-image {
 main .gsc-left-header .color-text-secondary {
   display: none !important;
 }
+
+main .gsc-comment-box-markdown-hint {
+  display: none !important;
+}
