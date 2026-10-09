@@ -56,8 +56,8 @@ main {
   --color-btn-primary-selected-bg: #000000;
   --color-btn-primary-selected-shadow: inset 0 1px 0 #00000033;
   --color-btn-primary-disabled-text: #ffffffcc;
-  --color-btn-primary-disabled-bg: #a9a9a9;
-  --color-btn-primary-disabled-border: #a9a9a9;
+  --color-btn-primary-disabled-bg: #333333;
+  --color-btn-primary-disabled-border: #333333;
 
   --color-action-list-item-default-hover-bg: #dcdcdc52;
   --color-segmented-control-bg: #e8e8e8;
